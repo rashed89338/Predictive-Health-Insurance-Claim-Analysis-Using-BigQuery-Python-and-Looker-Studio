@@ -8,7 +8,7 @@ The goal of this project is to analyze health insurance claim patterns, identify
 
 ## Live Project Links
 
-- **Google Cloud / BigQuery Project:** [View BigQuery Project]((https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sproject-ef2a3aed-6b63-4885-9aa!2sus-central1!3s2beff5d4-66c7-47bf-9966-6a6a46b803bc!2e1)
+- **Google Cloud / BigQuery Project:** [View BigQuery Project](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1sproject-ef2a3aed-6b63-4885-9aa!2sus-central1!3s2beff5d4-66c7-47bf-9966-6a6a46b803bc!2e1)
 - **Looker Studio Dashboard:** [View Dashboard](https://datastudio.google.com/reporting/ea25ea18-d8bc-4ee5-86ed-6ccc55218521)
 
 ## Tools and Technologies
